@@ -1,6 +1,5 @@
-workspace = { members = [ "aoc_helpers","day1"] }
 [package]
-name = "aoc-2022-rust"
+name = "aoc_helpers"
 version = "0.1.0"
 edition = "2021"
 
