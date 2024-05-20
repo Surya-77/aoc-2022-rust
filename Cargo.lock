@@ -16,3 +16,17 @@ version = "0.1.0"
 dependencies = [
  "aoc_helpers",
 ]
+
+[[package]]
+name = "day2"
+version = "0.1.0"
+dependencies = [
+ "aoc_helpers",
+]
+
+[[package]]
+name = "day3"
+version = "0.1.0"
+dependencies = [
+ "aoc_helpers",
+]
